@@ -1,4 +1,4 @@
-#  Calculadora de Múltiplos e Fatorial
+#  Calculadora de Múltiplos
 
 ## Visão Geral
 
